@@ -83,8 +83,8 @@ Movies:
 
 ## Running
 1. Create config folder at folder "api"
-2. In config create a file ".env.loacl"
-3. In .env.loacl insert the code:
+2. In config create a file ".env.local"
+3. In .env.local insert the code:
 CONNECTION_STRING=mongodb://host.docker.internal:27017/api
 PORT=12345
 RECCOMENDATION_IP=netflix-project
